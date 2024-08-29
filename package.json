@@ -1,0 +1,16 @@
+{
+  "name": "kirtan-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "kirtan",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "express": "^4.19.2",
+    "puppeteer": "^23.1.1",
+    "xlsx": "^0.18.5"
+  }
+}
